@@ -10,13 +10,19 @@ We are providing services for individual and company income tax, company registr
 
 Here are the points where you can get in touch or find us @
 
--[Official Page](https://hassanandassociates.ml)
--[Bitrix24 Site](https://hassanassociates.bitrix24.site)
--[Business Site](http://hassanassociates.business.site)
--[Internal Site](https://sites.google.com/site/taxadvisorbd)
+-[OfficialPage](https://hassanandassociates.ml)
+
+-[Bitrix24Site](https://hassanassociates.bitrix24.site)
+
+-[BusinessSite](http://hassanassociates.business.site)
+
 -[Blog](https://upodesta.ml)
+
+-[InternalSite](https://sites.google.com/site/taxadvisorbd)
+
 -[Blogger](https://upodesta.blogspot.com)
--[Owner's Site](https://taxadvisor.ml)
+
+-[Owner'sSite](https://taxadvisor.ml)
 
 ### Contact me
 
