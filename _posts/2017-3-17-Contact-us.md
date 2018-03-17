@@ -7,4 +7,4 @@ We are providing services for individual and company income tax, company registr
 
 ![_config.yml]({{ site.baseurl }}/images/logos/logo.png)
 
-The easiest way to get more information about our services, Please [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSfpEu18GwtXckk8qpcwxNPhRjHXEoeSP27mc_H-ycduDNzKIA)
+The easiest way to get more information about our services, Please [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSfpEu18GwtXckk8qpcwxNPhRjHXEoeSP27mc_H-ycduDNzKIA/viewform)
