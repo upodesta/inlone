@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: Do You Really Need a Professional Service ?
 ---
 
