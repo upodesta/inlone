@@ -2,6 +2,7 @@
 # Name of your site (displayed in the header)
 name: Hassan and Associates
 
+
 # Short bio or description (displayed in the header)
 description: Income tax, Company law and Business services in Bangladesh
 
@@ -12,17 +13,17 @@ avatar: https://blog.hassanandassociates.ml/images/logos/logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: info@hassanandassociates.ml
-  facebook: taxadvisorbd
-  flickr:
+  email: forms/d/e/1FAIpQLSfpEu18GwtXckk8qpcwxNPhRjHXEoeSP27mc_H-ycduDNzKIA
+  facebook: hassanandassociates.ml
+  flickr: gp/upodesta/4299fk
   github: HassanAndAssociatesBD
-  instagram:
-  linkedin:
+  instagram: hassanandassociates
+  linkedin: company/hassanassociates
   pinterest: syed_hassan_ali_bd
   rss: xyz123
-  twitter: hassan_and_asso
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/VTExGFHhyvQ
+  twitter: hasanassociates
+  stackoverflow: users/5491668/syed-hassan-ali
+  youtube: channel/UCdKY7Ei8I9x5-UbYFehlGXw
   googleplus: u/0/107475538839585118866
 
 
@@ -32,6 +33,8 @@ disqus: lonesomewhere
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-66934702-9
+
+language: "en-us" rel="alternate" hreflang="bn-bd"
 
 # Your website URL 
 # Used for Sitemap.xml and your RSS feed
