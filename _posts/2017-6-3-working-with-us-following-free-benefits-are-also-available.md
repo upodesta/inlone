@@ -11,7 +11,7 @@ Working with us following free benefits are also available :
 
 - Translator : A built-in-translator helps to read or send mails in own preferred languages.
 
-- IMAP & POP : Mailboxes are accessible through IMAP and POP. It can be set up conveniently in desktop and mobile email program. Even easily managable with [GMAIL](https://mail.google.com), [Outlook] (https://outlook.live.com), [Yahoo](https://mail.yahoo.com) even with [Thunderbird](https://www.mozilla.org/en-US/thunderbird).
+- IMAP & POP : Mailboxes are accessible through IMAP and POP. It can be set up conveniently in desktop and mobile email program. Even easily managable with [Gmail](https://mail.google.com), [Outlook](https://outlook.live.com), [Yahoo](https://mail.yahoo.com) even with [Thunderbird](https://www.mozilla.org/en-US/thunderbird).
 
 - Task Manager : A simple task manager built into mailbox lets anybody to kepp a to-do list.
 
