@@ -35,9 +35,9 @@ google_analytics: UA-66934702-16
 
 # Your website URL 
 # Used for Sitemap.xml and your RSS feed
-url: https://blog.hassanandassociates.ml
+url: https://blog.hassanandassociates.biz
      
-baseurl: https://blog.hassanandassociates.ml
+baseurl: https://blog.hassanandassociates.biz
 
 #
 # !! You don't need to change any of the configuration flags below !!
