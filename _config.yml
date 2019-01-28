@@ -6,7 +6,7 @@ name: Hassan and Associates
 description: Income tax, Company law and Business service provider in Bangladesh
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://blog.hassanandassociates.biz/images/logos/logo.png
+avatar: https://notes.hassanandassociates.biz/images/logos/logo.png
 
 
 # Includes an icon in the footer for each username you enter
@@ -34,9 +34,9 @@ google_analytics: UA-66934702-16
 
 # Your website URL 
 # Used for Sitemap.xml and your RSS feed
-url: https://blog.hassanandassociates.biz
+url: https://notes.hassanandassociates.biz
      
-baseurl: https://blog.hassanandassociates.biz
+baseurl: https://notes.hassanandassociates.biz
 
 #
 # !! You don't need to change any of the configuration flags below !!
