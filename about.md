@@ -20,11 +20,15 @@ Here are the points where you can get in touch or find us @
 
 - [Diary Site](https://diary.hassanandassociates.biz)
 
-- Blogger](https://blogger.hassanandassociates.biz)
+- [Blogger](https://blogger.hassanandassociates.biz)
 
 - [Internal Site](https://sites.google.com/site/taxadvisorbd)
 
 - [Owner's Site](https://taxadvisor.guru)
+
+### Subscribe to our Newsletter
+
+<a href="https://hassanandassociates.us17.list-manage.com/subscribe/post?u=6a6b36ec67a083ef90b0364cd&amp;id=7ef9f5c6ed" target="_blank"><img src="https://notes.hassanandassociates.biz/images/logos/nw.png" alt="Newsletter" style="height: auto !important;width: auto !important;" ></a>
 
 ### Contact me
 
