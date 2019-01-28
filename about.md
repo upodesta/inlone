@@ -4,26 +4,28 @@ title: About
 permalink: /about/
 ---
 
-We are providing services for individual and company income tax, company registration, annual return update, company law matter including all other related business services. We are located in Dhaka, Bangladesh but we serve clients across the country and all over the world. Our other Business services includes obtaining Trade License, Value Added Tax Registration certificate, Membership of Chamber of Commerce, Import-Export-Indenting License, Permits, Trademark-Copyright-Patent registration, project profile preparation as well as obtaining approval from the concern Authority etc
+We provide services for individual and company income tax, company registration, annual return update, company law matter including all other related business services. We are located in Dhaka, Bangladesh but we serve clients across the country and all over the world. Our other Business services includes obtaining Trade License, Value Added Tax Registration certificate, Membership of Chamber of Commerce, Import-Export-Indenting License, Permits, Trademark-Copyright-Patent registration, project profile preparation as well as obtaining approval from the concern Authority etc
 
 ### More About us
 
 Here are the points where you can get in touch or find us @
 
-- [Official Page](https://hassanandassociates.ml)
+- [Official Page](https://hassanandassociates.biz)
 
-- [Bitrix24 Site](https://hassanassociates.bitrix24.site)
+- [Alter Site](https://hassanandassociates.ml)
 
-- [Business Site](http://hassanassociates.business.site)
+- [Business Site](http://hassanandassociates.business.site)
 
-- [Blog](https://upodesta.ml)
+- [Official Blog](https://blog.hassanandassociates.biz)
+
+- [Diary Site](https://diary.hassanandassociates.biz)
+
+- Blogger](https://blogger.hassanandassociates.biz)
 
 - [Internal Site](https://sites.google.com/site/taxadvisorbd)
 
-- [Blogger](https://upodesta.blogspot.com)
-
-- [Owner's Site](https://taxadvisor.ml)
+- [Owner's Site](https://taxadvisor.guru)
 
 ### Contact me
 
-[info@hassanandassociates.ml](mailto:info@hassanandassociates.ml)
+[info@hassanandassociates.biz](mailto:info@hassanandassociates.biz)
