@@ -26,10 +26,10 @@ Here are the points where you can get in touch or find us @
 
 - [Owner's Site](https://taxadvisor.com.bd)
 
-### Subscribe to our Newsletter
+### Subscribe to our 
 
 <a href="https://hassanandassociates.us17.list-manage.com/subscribe/post?u=6a6b36ec67a083ef90b0364cd&amp;id=7ef9f5c6ed" target="_blank"><img src="https://diary.hassanandassociates.biz/images/logos/nw.png" alt="Newsletter" style="height: auto !important;width: auto !important;" ></a>
 
-### Contact me
+### Contact us :
 
 [info@hassanandassociates.biz](mailto:info@hassanandassociates.biz)
