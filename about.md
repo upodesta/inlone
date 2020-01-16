@@ -12,15 +12,13 @@ Here are the points where you can get in touch or find us @
 
 - [Official Page](https://hassanandassociates.biz)
 
-- [Alter Site](https://hassanandassociates.ml)
-
-- [Business Site](http://hassanandassociates.business.site)
-
 - [Official Blog](https://blog.hassanandassociates.biz)
 
-- [Notes Site](https://notes.hassanandassociates.biz)
+- [Blog 'Notes' Site](https://notes.hassanandassociates.biz)
 
 - [Blogger](https://blogger.hassanandassociates.biz)
+
+- [Business Site](http://hassanandassociates.business.site)
 
 - [Internal Site](https://sites.google.com/site/taxadvisorbd)
 
